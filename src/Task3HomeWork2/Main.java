@@ -1,4 +1,4 @@
-package Task2HomeWork2;
+package Task3HomeWork2;
 import java.util.Scanner;
 public class Main {
     public static void main (String[] args) {
